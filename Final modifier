@@ -1,0 +1,11 @@
+class Fmodifier
+{
+final int a=111;
+public static void main(String args[])
+{
+Fmodifier f1=new Fmodifier();
+System.out.println(f1.a);
+//  f1.a=356;
+System.out.println(f1.a);
+}
+}
